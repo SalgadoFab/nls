@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento&display=swap'); //Titulos
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&display=swap'); //Parrafos
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: $white;
+    font-weight: 100;
+    h1, h2, h3, h5 {
+        margin: 0;
+        font-weight: 100;
+        font-family: 'Quattrocento', serif;
+    }
+    p {
+        margin: 0;
+    }
+}

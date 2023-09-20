@@ -1,0 +1,59 @@
+@mixin zero-to-sm {
+  @media screen and (max-width: #{$sm}) {
+    @content;
+  }
+}
+
+@mixin sm {
+  @media screen and (min-width: #{$sm}) {
+    @content;
+  }
+}
+
+@mixin zero-to-sm2 {
+  @media screen and (max-width: #{$sm2}) {
+    @content;
+  }
+}
+
+@mixin sm2 {
+  @media screen and (min-width: #{$sm2}) {
+    @content;
+  }
+}
+
+@mixin zero-to-md {
+  @media screen and (max-width: #{$md}) {
+    @content;
+  }
+}
+
+@mixin md {
+  @media screen and (min-width: #{$md}) {
+    @content;
+  }
+}
+
+@mixin zero-to-md2 {
+  @media screen and (max-width: #{$md2}) {
+    @content;
+  }
+}
+
+@mixin md2 {
+  @media screen and (min-width: #{$md2}) {
+    @content;
+  }
+}
+
+@mixin zero-to-lg {
+  @media screen and (max-width: #{$lg}) {
+    @content;
+  }
+}
+
+@mixin lg {
+  @media screen and (min-width: #{$lg}) {
+    @content;
+  }
+}
