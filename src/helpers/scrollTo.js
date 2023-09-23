@@ -4,10 +4,10 @@ import { ScrollToPlugin } from 'gsap/dist/ScrollToPlugin';
 gsap.registerPlugin(ScrollToPlugin);
 
 //Helper para hacer scroll suave a cualquier sección
-export const handleScroll = section => {
+export const setScrollTo = section => {
   if (section) {
     gsap.to(window, {
-      duration: 2.5,
+      duration: 1.5,
       scrollTo: {
         y: `#${section}`,
       },

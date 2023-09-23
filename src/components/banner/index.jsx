@@ -1,5 +1,7 @@
 import { Gradient } from './gradient/Gradient'
 import { Button } from '../utils'
+import { setScrollTo } from '@/helpers/scrollTo'
+
 
 export const Banner = () => {
   return (
@@ -17,7 +19,7 @@ export const Banner = () => {
           <p>
             Innovación impulsada por el compromiso.
           </p>
-          <Button text='Conocenos' action={() => console.log('Conocenos')} />
+          <Button text='Conocenos' action={() => setScrollTo('ejemplo')} />
         </div>
       </div>
     </section>

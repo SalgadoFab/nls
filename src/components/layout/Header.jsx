@@ -3,7 +3,7 @@
 export const Header = () => {
   return (
     <header>
-      <div>
+      <div style={{textAlign: 'center', fontWeight: '600'}}>
           Header aqui
       </div>
     </header>
