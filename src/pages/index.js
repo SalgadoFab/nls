@@ -1,10 +1,15 @@
-import { Banner, Ejemplo } from '@/components'
+import { Banner, Contacto, Ejemplo, Equipo, MisionVision, Nosotros, NuestraApp } from '@/components'
 
 export default function Home() {
   return (
     <>
       <Banner/>
-      <Ejemplo/>
+      {/* <Ejemplo/> */}
+      <Nosotros/>
+      <MisionVision/>
+      <NuestraApp/>
+      <Equipo/>
+      <Contacto/>
     </>
   )
 }
