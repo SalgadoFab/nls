@@ -1,5 +1,5 @@
-import React from 'react'
 import { Gradient } from './gradient/Gradient'
+import { Button } from '../utils'
 
 export const Banner = () => {
   return (
@@ -16,6 +16,7 @@ export const Banner = () => {
         <p>
         Innovación impulsada por el compromiso.
         </p>
+        <Button text='Conocenos' action={() => console.log('Conocenos')} />
       </div>
     </section>
   )

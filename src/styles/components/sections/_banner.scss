@@ -44,6 +44,35 @@
     }
   }
 
-  
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    width: 100%;
+    z-index: 5;
+    text-align: center;
+    h1 {
+      color: #FFF;
+      font-family: Quattrocento;
+      font-size: 5.25rem;
+    }
 
+    p {
+      color: #FFF;
+      text-align: center;
+      font-family: Quattrocento;
+      font-size: 1.57895rem;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+
+    .btn-wrapper {
+      margin-top: 8rem;
+      display: flex;
+      justify-content: center;
+    }
+
+  }
 }
