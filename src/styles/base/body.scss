@@ -4,24 +4,7 @@ body {
     overflow-x: hidden;
     padding: 0 !important;
     margin: 0 !important;
-    font-size: 1vw !important;
-    background-color: $primary;
-
-    @include zero-to-lg {
-        font-size: 1.3vw !important;
-    }
-
-    @include zero-to-md2 {
-        font-size: 1.5vw !important;
-    }
-
-    @include zero-to-md {
-        font-size: 1.8vw !important;
-    }
-
-    @include zero-to-sm2 {
-        font-size: 2.2vw !important;
-    }
+    font-size: 16px !important;
 }
 
 *,
@@ -51,16 +34,9 @@ body {
 }
 
 section {
-    height: 100vh;
+    height: auto;
     overflow: hidden;
-
     .container {
         height: 100%;
-    }
-
-    @include zero-to-md {
-        p {
-            font-size: 1.8rem !important;
-        }
     }
 }
