@@ -1,20 +1,18 @@
-/*  Banner component
+/*  Sections
 --------------------------------------------- */
+@import "sections/header";
+@import "sections/footer";
 @import "sections/banner";
-
-/*  Banner component
---------------------------------------------- */
 @import "sections/ejemplo";
+@import "sections/nosotros";
+@import "sections/mision-vision";
+@import "sections/nuestra-app";
+@import "sections/equipo";
+@import "sections/contacto";
 
-
-
-/*  Button block
+/*  Blocks
 --------------------------------------------- */
 @import "button";
-
-
-/*  Content block
---------------------------------------------- */
 @import "content";
 
 

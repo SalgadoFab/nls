@@ -4,4 +4,8 @@ export * from './layout';
 
 
 export * from './banner';
-export * from './ejemplo';
+export * from './nosotros';
+export * from './mision-vision';
+export * from './nuestra-app';
+export * from './equipo';
+export * from './contacto';
