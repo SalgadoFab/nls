@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import AOS from 'aos';
-import { Meta } from '@/components'
+import { Layout, Meta } from '@/components'
 
 import '../styles/styles.scss'
 import 'aos/dist/aos.css';
@@ -15,7 +15,9 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Meta />
-      <Component {...pageProps} />
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
     </>
   )
 }
