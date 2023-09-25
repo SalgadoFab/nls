@@ -22,7 +22,7 @@ export const Equipo = () => {
 
           <div class="container">          
             <div class="card">            
-              <img src="../../images/Tay-GIF.gif" alt="foto-perfil1" />
+              <img src="../../images/Taylor.png" alt="foto-perfil1" />
               <div class="description-container">
                 <h1>Taylor Segura</h1>
                 <h2>Coordinador general</h2>
@@ -33,7 +33,7 @@ export const Equipo = () => {
             </div>
 
             <div class="card">
-              <img src="../../images/Eli-GIF.gif" alt="foto-perfil2" />
+              <img src="../../images/Eli.png" alt="foto-perfil2" />
               <div class="description-container">
                 <h1>Elizabeth Sequeira</h1>
                 <h2>Coordinadora de calidad</h2>
@@ -43,7 +43,7 @@ export const Equipo = () => {
             </div>
 
             <div class="card">
-              <img src="../../images/Fabi-GIF.gif" alt="foto-perfil3" />
+              <img src="../../images/Fabi.png" alt="foto-perfil3" />
               <div class="description-container">
                 <h1>Fabiana Milanés</h1>
                 <h2>Coordinadora de soporte</h2>
@@ -53,7 +53,7 @@ export const Equipo = () => {
             </div>
 
             <div class="card">
-              <img src="../../images/Fabricio-GIF.gif" alt="foto-perfil4" />
+              <img src="../../images/Fabricio.png" alt="foto-perfil4" />
               <div class="description-container">
                 <h1>Fabricio Salgado</h1>
                 <h2>Coordinador de desarrollo</h2>
@@ -62,7 +62,7 @@ export const Equipo = () => {
               </div>
             </div>
             <div class="card">            
-              <img src="../../images/Joc-GIF.gif" alt="foto-perfil5" />
+              <img src="../../images/Joc.png" alt="foto-perfil5" />
               <div class="description-container">
                 <h1>Jocseline Aguilar</h1>
                 <h2>Coordinadora de desarrollo</h2>
@@ -72,7 +72,7 @@ export const Equipo = () => {
             </div>
 
             <div class="card">
-              <img src="../../images/francisco-GIF.gif" alt="foto-perfil6" />
+              <img src="../../images/tovar.jpg" alt="foto-perfil6" />
               <div class="description-container">
                 <h1>Francisco Tovar</h1>
                 <h2>Coordinador de calidad</h2>
