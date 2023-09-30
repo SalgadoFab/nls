@@ -6,12 +6,12 @@ export const Header = () => {
     <header id="header">
       <div style={{textAlign: 'center', fontWeight: '600'}}>
           <div className="header-row-1 flex-container">
-            <div className='flex-container'>
+            <div className="flex-container">
               <NavButton text = {"Equipo"} scrollSectionID = {PageSections.Equipo}></NavButton>
               <NavButton text = {"Contacto"} scrollSectionID = {PageSections.Contacto}></NavButton>
             </div>
 
-            <div className='flex-container'>
+            <div className="flex-container">
               <SocialMediaButton socialMedia = {SocialMedias.Facebook}></SocialMediaButton>
               <SocialMediaButton socialMedia = {SocialMedias.Twitter}></SocialMediaButton>
               <SocialMediaButton socialMedia = {SocialMedias.LinkedIn}></SocialMediaButton>
