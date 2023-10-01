@@ -8,22 +8,22 @@ export const Equipo = () => {
 
         <div>
         
-          <div class="name-container">
-            <div class="content-block">
-              <div class="title-container">
+          <div className="name-container">
+            <div className="content-block">
+              <div className="title-container">
                 <h2>Nuestro Equipo</h2>
               </div>
-              <div class="paragraph-container">
+              <div className="paragraph-container">
                 <p>Profesionales dedicados que impulsan cada
                     proyecto con pasión y experiencia</p>
               </div>
             </div>
           </div>
 
-          <div class="container">          
-            <div class="card">            
+          <div className="container">          
+            <div className="card">            
               <img src="../../images/Taylor.png" alt="foto-perfil1" />
-              <div class="description-container">
+              <div className="description-container">
                 <h1>Taylor Segura</h1>
                 <h2>Coordinador general</h2>
                 <hr />
@@ -32,9 +32,9 @@ export const Equipo = () => {
 
             </div>
 
-            <div class="card">
+            <div className="card">
               <img src="../../images/Eli.png" alt="foto-perfil2" />
-              <div class="description-container">
+              <div className="description-container">
                 <h1>Elizabeth Sequeira</h1>
                 <h2>Coordinadora de calidad</h2>
                 <hr />
@@ -42,9 +42,9 @@ export const Equipo = () => {
               </div>
             </div>
 
-            <div class="card">
+            <div className="card">
               <img src="../../images/Fabi.png" alt="foto-perfil3" />
-              <div class="description-container">
+              <div className="description-container">
                 <h1>Fabiana Milanés</h1>
                 <h2>Coordinadora de soporte</h2>
                 <hr />
@@ -52,18 +52,18 @@ export const Equipo = () => {
               </div>
             </div>
 
-            <div class="card">
+            <div className="card">
               <img src="../../images/Fabricio.png" alt="foto-perfil4" />
-              <div class="description-container">
+              <div className="description-container">
                 <h1>Fabricio Salgado</h1>
                 <h2>Coordinador de desarrollo</h2>
                 <hr />
                 <p>Motor creativo, si hablamos de frontend es nuestra guía, muy proactivo y siempre ocupado en algo nuevo e interesante.</p>
               </div>
             </div>
-            <div class="card">            
+            <div className="card">            
               <img src="../../images/Joc.png" alt="foto-perfil5" />
-              <div class="description-container">
+              <div className="description-container">
                 <h1>Jocseline Aguilar</h1>
                 <h2>Coordinadora de desarrollo</h2>
                 <hr />
@@ -71,9 +71,9 @@ export const Equipo = () => {
               </div>
             </div>
 
-            <div class="card">
+            <div className="card">
               <img src="../../images/tovar.jpg" alt="foto-perfil6" />
-              <div class="description-container">
+              <div className="description-container">
                 <h1>Francisco Tovar</h1>
                 <h2>Coordinador de calidad</h2>
                 <hr />
