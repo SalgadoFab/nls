@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812e13e0-8882-4e0a-aac2-f3ea00143597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nls.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contacto/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacto/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/components/sections/_contacto.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/sections/_contacto.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696262094981</updated>
       <workItem from="1696262096795" duration="426000" />
-      <workItem from="1696295426119" duration="6162000" />
+      <workItem from="1696295426119" duration="6247000" />
     </task>
     <servers />
   </component>
