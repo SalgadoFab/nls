@@ -14,7 +14,7 @@ export const Equipo = () => {
                 <h2>Nuestro Equipo</h2>
               </div>
               <div className="paragraph-container">
-                <p>Profesionales dedicados que impulsan cada
+                <p>Profesionales dedicados que impulsan cada <br />
                     proyecto con pasión y experiencia</p>
               </div>
             </div>

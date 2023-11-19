@@ -5,15 +5,14 @@ export const Nosotros = () => {
       <div className='name-container'>
         <div className="content-block">
           <div className="tags">
-            <span>calidad</span>
-            <span>innovación</span>
+            <span>Calidad</span>
+            <span>Innovación</span>
           </div>
           <div className="title-container">
             <h2>
               Descubre quién es NLS
-              <span>
-                Referentes de la excelencia & el éxito
-              </span>
+              <br></br>
+              Referentes de la excelencia & el éxito
             </h2>
           </div>
           <div className="paragraph-container">
