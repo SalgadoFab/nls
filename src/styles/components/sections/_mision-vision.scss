@@ -1,14 +1,20 @@
 #mision-vision {
-    height: 150vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+    margin-bottom: 8rem;
 }
 
 .container-mision-vision {
-
     display: flex;
+}
 
+.container-cards-mision-vision {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
 }
 
 .card-mision-vision {
