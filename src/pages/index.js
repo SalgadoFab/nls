@@ -1,10 +1,9 @@
-import { Banner, Contacto, Ejemplo, Equipo, MisionVision, Nosotros, NuestraApp } from '@/components'
+import { Banner, Contacto, Equipo, MisionVision, Nosotros, NuestraApp } from '@/components'
 
 export default function Home() {
   return (
     <>
       <Banner/>
-      <Ejemplo/>
       <Nosotros/>
       <MisionVision/>
       <NuestraApp/>
