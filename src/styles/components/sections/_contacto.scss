@@ -18,10 +18,14 @@
     display: flex;
     justify-content: center;
 
-    .content-container{
+    .form {
+      width: 100%;
+    }
 
-      margin-left: 50px;
-      width: 48%;
+    .content-container{
+      
+      margin: auto;
+      width: 50rem;
 
       .first-row{
         width: 100%;
